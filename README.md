@@ -1,5 +1,4 @@
 ### Hi there 👋, I am Pascal Juma. Nice to meet you.
-
 <!--
 **Pascaljuma** is a ✨ An experienced web developer and computer engineer ✨Feel free to work with me.
 
