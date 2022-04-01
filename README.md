@@ -1,4 +1,5 @@
-### Hi there 👋, I am Pascal Juma. Nice to meet you.
+**## Hi there 👋, I am Pascal Juma. Nice to meet you.**
+
 **Pascaljuma** is a ✨ An experienced web developer and computer engineer ✨Feel free to work with me.
 - 🔭 I’m currently working on graphics design skills.
 - 🌱 I’m currently learning machine learning using python django.
@@ -9,4 +10,17 @@
                       :Email; pascal123juma@gmail.com
 - 😄 My motivation: Money keeps me going for greater things.
 - ⚡ Fun fact: I love driving and sharing ideas with people.
+
+
+
+**###These are my projects... while others are work in progress coming soon..**
+
+Feel free to download the code also..
+
+1) https://pascaljuma.github.io/digifarm18/
+2) https://pascaljuma.github.io/taxi_hire/
+3)https://pascaljuma.github.io/bus_booking.pas/
+
+
+
 
