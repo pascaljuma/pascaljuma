@@ -19,7 +19,7 @@ Feel free to download the code also..
 
 1) https://pascaljuma.github.io/digifarm18/
 2) https://pascaljuma.github.io/taxi_hire/
-3)https://pascaljuma.github.io/bus_booking.pas/
+3) https://pascaljuma.github.io/bus_booking.pas/
 
 
 
